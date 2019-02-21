@@ -1,0 +1,19 @@
+{
+  "name": "live-server-spa",
+  "author": {
+    "name": "Jose Varela"
+  },
+  "repository": {
+    "url": "git@github.com:joselcvarela/live-server-spa.git",
+    "type": "github"
+  },
+  "version": "1.0.0",
+  "bin": "./live-server-spa.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "express": "^4.16.4",
+    "jsdom": "^13.2.0",
+    "sse-channel": "^3.1.1"
+  }
+}
